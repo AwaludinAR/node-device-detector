@@ -2,9 +2,8 @@ const ParserAbstract = require('./abstract-parser');
 
 const helper = require('./helper');
 
-const COLLECTION_BRAND_LIST = helper.revertObject(
-  require('./device/brand-short')
-);
+const COLLECTION_BRAND_IDS =  require('./device/brand-short');
+const COLLECTION_BRAND_LIST = helper.revertObject(COLLECTION_BRAND_IDS);
 
 const DESKTOP_PATTERN = '(?:Windows (?:NT|IoT)|X11; Linux x86_64)';
 const DESKTOP_EXCLUDE_PATTERN = ' Mozilla/|Andr[o0]id|Tablet|Mobile|iPhone|Windows Phone|OculusBrowser|ricoh|Lenovo|compatible; MSIE|Trident/|Tesla/|XBOX|FBMD/|ARM; ?([^)]+)';
@@ -113,10 +112,11 @@ class DeviceParserAbstract extends ParserAbstract {
     if (isDesktop) {
       return [];
     }
-    
+
     let output = [];
     if (brandIndexes.length) {
-      for (let cursor of brandIndexes) {
+      for (let cursorId of brandIndexes) {
+        let cursor = this.getBrandNameById(cursorId);
         let result = this.__parseForBrand(cursor, userAgent);
         if (result === null) {
           continue;
@@ -150,6 +150,15 @@ class DeviceParserAbstract extends ParserAbstract {
     userAgent = this.prepareUserAgent(userAgent);
     let result = this.__parse(userAgent, true, brandIndexes);
     if (result.length) {
+      // if it is fake device iphone/ipad then result empty
+      if (result[0].brand === 'Apple' && /android /i.test(userAgent)) {
+        return {
+          id: '',
+          brand: '',
+          model: '',
+          type: result[0].type,
+        };
+      }
       return result[0];
     }
     return null;
@@ -162,6 +171,15 @@ class DeviceParserAbstract extends ParserAbstract {
    */
   getBrandIdByName(brandName) {
     return COLLECTION_BRAND_LIST[brandName];
+  }
+
+  /**
+   * get brand name by short id
+   * @param {string} id
+   * @returns {string|void}
+   */
+  getBrandNameById(id) {
+    return COLLECTION_BRAND_IDS[id];
   }
 }
 
