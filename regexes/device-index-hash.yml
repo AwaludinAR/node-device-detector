@@ -44,6 +44,8 @@
   - A9
 '6201':
   - A9
+'6501':
+  - A9
 '8051':
   - AL
 '8052':
@@ -68,6 +70,8 @@
   - AL
 '8092':
   - AL
+'8095':
+  - TC
 '8167':
   - TC
 '8182':
@@ -216,6 +220,8 @@ yt9216bj:
   - XYA
 yt9213aj:
   - XYA
+mpc-100:
+  - 5O
 pixel 3:
   - GO
 m2006c3lg:
@@ -755,6 +761,10 @@ latitude e4310:
   - DL
 k50ij:
   - AU
+google pixelbook go:
+  - GO
+travelmate b118-m:
+  - AC
 impress_grip:
   - VX
 archos diamond plus:
@@ -787,6 +797,8 @@ sm-t280:
   - SA
 fever:
   - WI
+m580:
+  - 8L
 huawei huawei tit-u02:
   - HU
 sm-t515:
@@ -935,6 +947,22 @@ eft_h3:
   - EFT
 nls-mt65:
   - N9
+i6200s:
+  - 9U
+i6200a:
+  - 9U
+seewo sd02:
+  - SE1
+telo_m5:
+  - TLS
+idata 50:
+  - 6Z
+idata_i3al:
+  - 6Z
+multiposx9:
+  - MPS
+sobietech slp:
+  - SOB
 sm-f721u:
   - SA
 note 13p:
@@ -1059,6 +1087,56 @@ m-ppxs510l:
   - MC
 infinix-x551:
   - IF
+22101316g:
+  - XI
+23028ra60l:
+  - XI
+23049rad8c:
+  - XI
+23030rac7y:
+  - XI
+2303cra44a:
+  - XI
+22111317g:
+  - XI
+redmi_note_8:
+  - XI
+redmi_note_5:
+  - XI
+v2266a:
+  - VV
+sm-f721w:
+  - SA
+infinix x6716:
+  - IF
+2303era42l:
+  - XI
+galaxy note 20 ultra:
+  - SA
+galaxy s21:
+  - SA
+galaxy note 20:
+  - SA
+galaxy note 10:
+  - SA
+galaxy note 10+:
+  - SA
+galaxy note 2:
+  - SA
+m1906g7g:
+  - XI
+infinix x6710:
+  - IF
+infinix x678b:
+  - IF
+tecno lh7n:
+  - TB
+redmi note 12s:
+  - XI
+redmi note 12:
+  - XI
+redmi note9 pro max:
+  - XI
 gi-626:
   - A5
 5039d_ru:
@@ -2129,6 +2207,8 @@ da222hql:
   - AC
 blm-00:
   - HU
+xd-sdd05-2101:
+  - XW
 aeobc:
   - KN
 aeokn:
@@ -3403,6 +3483,7 @@ nokia 7 plus:
 nokia 8 sirocco:
   - NK
 nokia:
+  - NK
   - SA
 lumia 1520:
   - NK
@@ -9826,7 +9907,7 @@ q800:
 xolo_x1000:
   - XO
 era 2x:
-  - XR
+  - XO
 xshitou p7:
   - XS
 x-tigi_j110:
@@ -17835,6 +17916,7 @@ woxter_zielo_z420:
   - WX
 uniq:
   - CE
+  - ZU
 lg-d405:
   - LG
 16m4hi105024:
@@ -17859,6 +17941,9 @@ hisense infinity h40 lite:
   - HI
 zte blade v0710:
   - ZT
+mione p2+:
+  - X7
+  - MO
 qin 1s+:
   - XI
 sc51aa:
@@ -18484,6 +18569,7 @@ s5140:
   - GZ
 s7:
   - SC
+  - 6G
 nx529jq:
   - '57'
 v210101:
@@ -22895,6 +22981,7 @@ fame_ds:
 gpad_u:
   - U6
 beam:
+  - 4M
   - HR
 aquaris vs:
   - BX
@@ -27246,6 +27333,7 @@ tq14:
 ultra z:
   - ZU
 z9 plus:
+  - AW
   - QM
 xt1063:
   - MR
@@ -27338,6 +27426,7 @@ alien x pro 2021:
 2201116pg:
   - 0P
 s59:
+  - AC
   - DO
 boston 4g:
   - GG
@@ -29525,6 +29614,7 @@ active 1:
   - VH
 a240:
   - MI
+  - DX
 e601f:
   - HN
 e61pro:
@@ -29561,6 +29651,7 @@ s32_plus:
   - '66'
 s42:
   - CA
+  - '66'
 s52:
   - CA
 s60 discovery plus:
@@ -30120,6 +30211,7 @@ sm-g990b2:
 ctr-lx1:
   - HU
 pocket:
+  - CB
   - MY
 power p1:
   - 6V
@@ -30434,6 +30526,7 @@ b8plus:
   - L8
 b5pro:
   - MI
+  - L8
 bpro:
   - BT
 b260:
@@ -30446,6 +30539,7 @@ infinix x668c:
   - IF
 j5:
   - CB
+  - QM
 lava ln9810:
   - LV
 lava le9820:
@@ -30651,6 +30745,7 @@ find n:
   - OP
 epic pro_1:
   - 4M
+  - HR
 pal-al00:
   - HU
 pal-lx9:
@@ -30943,6 +31038,8 @@ sm-a125p:
   - SA
 sm-a102j:
   - SA
+oneplus 9:
+  - 'ON'
 sm-a115v:
   - SA
 sm-a215t:
@@ -33078,7 +33175,9 @@ itel s661lp:
 motorola edge (2022):
   - MR
 x400:
+  - PS
   - 8E
+  - QQ
 ilium x400:
   - LA
 lgm-x100s:
@@ -33189,6 +33288,7 @@ a161:
 le max 2:
   - L1
 n30:
+  - DO
   - 5I
 rmx3710:
   - RE
@@ -33246,6 +33346,7 @@ infocus m808:
   - FO
 epic pro_2:
   - 4M
+  - HR
 zte blade a52ru:
   - ZT
 vtl-202101:
@@ -33570,6 +33671,1399 @@ gfive president(g10):
   - 0G
 admire_sense+:
   - ZN
+admire neo+:
+  - ZN
+admire shine:
+  - ZN
+  - J0
+admire_sense_duo:
+  - ZN
+admire_infinity:
+  - ZN
+admire_curve+:
+  - ZN
+admire strong:
+  - ZN
+admire_duo:
+  - ZN
+admire swadesh+:
+  - ZN
+ac7_dj17:
+  - YI
+ac45bhe:
+  - AR
+feel_plus:
+  - TEL
+geant_t3:
+  - GEN
+galactic_astro:
+  - GA1
+era1x:
+  - XO
+era1xpro:
+  - XO
+era x:
+  - XO
+era 2x 3gb:
+  - XO
+era 2:
+  - XO
+eon45i:
+  - ZIG
+ticktock-s:
+  - UZ
+moto g73 5g:
+  - MR
+2212arnc4l:
+  - XI
+v2231:
+  - VV
+crt-lx2:
+  - HU
+a170_plus:
+  - I4
+pixel 7a:
+  - GO
+sm-a145r:
+  - SA
+rmx3627:
+  - RE
+xiaomi poco x3 nfc:
+  - 0P
+  - XI
+nokia g22:
+  - NK
+hammer_construction:
+  - HAM
+v max:
+  - DO
+tecno ki7:
+  - TB
+23028rn4dg:
+  - XI
+z5157v:
+  - ZT
+sm-e045f:
+  - SA
+rmx3706:
+  - RE
+power armor 19t:
+  - UL
+tecno ki5k:
+  - TB
+pgt-an10:
+  - HU
+22127rk46c:
+  - XI
+22101320i:
+  - 0P
+tecno ad10:
+  - TB
+tecno ki5n:
+  - TB
+sts502:
+  - Y7
+lava z3 up:
+  - LV
+sm-a045m:
+  - SA
+hl6077:
+  - AD
+hola:
+  - J9
+ht28:
+  - STR
+  - HM
+ht16:
+  - STR
+  - HM
+panasonic t31:
+  - PA
+orange zilo:
+  - OR
+lenovo a526:
+  - LE
+lenovo a850+:
+  - LE
+vx20:
+  - 4M
+vx19:
+  - 4M
+m2004j19ag:
+  - XI
+220743fi:
+  - XI
+armor 12s:
+  - UL
+gplus s10:
+  - 8G
+g512:
+  - GN
+g312:
+  - GN
+gsmart rey r3:
+  - GG
+igo_l3:
+  - JG
+huawei lyo-l02:
+  - HU
+huawei lyo-l01:
+  - HU
+hyper x dragon:
+  - SKK
+hyper x blade ii:
+  - SKK
+hyper x blade:
+  - SKK
+dtac phone joey jet 2:
+  - DTA
+dpa_zeta:
+  - DPA
+dpa h3:
+  - DPA
+sl05:
+  - BP
+slam:
+  - HR
+sm 02 2019:
+  - BP
+sm-j530gm:
+  - SA
+sm-j530y:
+  - SA
+sm-j530ym:
+  - SA
+sm-j530fd:
+  - SA
+aqua_power_hd:
+  - IX
+aqua_lifeiii:
+  - IX
+aqua_power_ii:
+  - IX
+aqua_slice_ii:
+  - IX
+im-a860k:
+  - PT
+im-a860l:
+  - PT
+im-a860s:
+  - PT
+im-a860vn:
+  - PT
+im-a850vn:
+  - PT
+im-a850s:
+  - PT
+ilium s130:
+  - LA
+ilium l820:
+  - LA
+ifoo s50:
+  - QN
+stk_transporter_1:
+  - S8
+stk life plus s:
+  - S8
+stk life 7 4g:
+  - S8
+stk life 7 3g:
+  - S8
+stk life 5:
+  - S8
+stk hero lite:
+  - S8
+storm_s8plus:
+  - 6R
+storm_s8:
+  - 6R
+symphony i110:
+  - SM
+spice f305:
+  - SP
+spice f302:
+  - SP
+spice f301:
+  - SP
+speed_s8:
+  - '00'
+sn10:
+  - SUP
+smartphone_yzu_ds53:
+  - DL0
+smartphone dl horizon h8:
+  - DL0
+smart champ 4.0:
+  - '11'
+smart 4g adventure:
+  - '11'
+smart 4g gen c 5.0"":
+  - '11'
+sp413:
+  - C5
+stk ace plus:
+  - S8
+stk evo:
+  - S8
+sw17w13:
+  - 1G
+sw17w08:
+  - 1G
+t400 3g 2017:
+  - N3
+primo zx3:
+  - WA
+primo s6:
+  - WA
+primo rm3s:
+  - WA
+primo rh3:
+  - WA
+primo nh3i:
+  - WA
+primo nh3:
+  - WA
+primo nh3 lite:
+  - WA
+primo nf3:
+  - WA
+primo hm4i:
+  - WA
+primo hm4+:
+  - WA
+primo hm4:
+  - WA
+e8_ultra:
+  - EKI
+dl501:
+  - D3
+spirit_plus:
+  - N3
+smart prime ii:
+  - '49'
+lgls996:
+  - LG
+lgls770:
+  - LG
+lgls751:
+  - LG
+lgls665:
+  - LG
+lgl82vl:
+  - LG
+lgl81al:
+  - LG
+lgl62vl:
+  - LG
+lgl61al:
+  - LG
+lgl52vl:
+  - LG
+lgl51al:
+  - LG
+lgl44vl:
+  - LG
+lgl43al:
+  - LG
+lgl18vc:
+  - LG
+lgas995:
+  - LG
+lg-ms323:
+  - LG
+lg-m700n:
+  - LG
+lg-k420pr:
+  - LG
+lg-k420ds:
+  - LG
+lg-k121:
+  - LG
+lg-k120gt:
+  - LG
+lg-h990ds:
+  - LG
+lg-h968:
+  - LG
+lg-h959:
+  - LG
+lg-h955:
+  - LG
+lg-h900pr:
+  - LG
+lg-h740:
+  - LG
+lg-h734:
+  - LG
+lg-h731:
+  - LG
+lg-h631:
+  - LG
+lg-h525:
+  - LG
+lg-h445:
+  - LG
+lg-h443:
+  - LG
+lg-h345:
+  - LG
+lg-f620s:
+  - LG
+lg-f610s:
+  - LG
+lg-f610k:
+  - LG
+lg-f600s:
+  - LG
+lg-f580l:
+  - LG
+lg-f510s:
+  - LG
+lg-f510k:
+  - LG
+lg-f400k:
+  - LG
+lg-f260s:
+  - LG
+lg-f220k:
+  - LG
+lg-f200s:
+  - LG
+lg-f200l:
+  - LG
+lg-f180l:
+  - LG
+lg-f180k:
+  - LG
+lg-e989:
+  - LG
+lg-e981h:
+  - LG
+lg-e980h:
+  - LG
+lg-e980:
+  - LG
+lg-e976:
+  - LG
+lg-e975k:
+  - LG
+lg-d959:
+  - LG
+lg-d958:
+  - LG
+lg-d955:
+  - LG
+lg-d950g:
+  - LG
+lg-d850:
+  - LG
+lg-d806:
+  - LG
+lg-d805:
+  - LG
+lg-d803:
+  - LG
+lg-d802t:
+  - LG
+lg-d801:
+  - LG
+lg-d722j:
+  - LG
+lg-d722ar:
+  - LG
+lg-d693ar:
+  - LG
+lg-d684:
+  - LG
+lg-d683:
+  - LG
+lg-d682tr:
+  - LG
+lg-d682:
+  - LG
+lg-d681:
+  - LG
+lg-d631:
+  - LG
+lg-d610tr:
+  - LG
+lg-d610ar:
+  - LG
+lg-d605:
+  - LG
+lg-d505:
+  - LG
+lg-d486:
+  - LG
+lg-d400:
+  - LG
+lg-d393:
+  - LG
+lg-d280:
+  - LG
+lg-d320ar:
+  - LG
+lg-d329:
+  - LG
+lg-d337:
+  - LG
+lg-d227:
+  - LG
+lg-d221:
+  - LG
+lg-d213ar:
+  - LG
+lg-d213:
+  - LG
+lg-d180f:
+  - LG
+lg-d175f:
+  - LG
+lg-d170:
+  - LG
+lg-d165ar:
+  - LG
+lg-d165:
+  - LG
+lg-d157f:
+  - LG
+lg-d150:
+  - LG
+lg-d120ar:
+  - LG
+lg-d105:
+  - LG
+lg-d100ar:
+  - LG
+lg-d100:
+  - LG
+lg-f310lr:
+  - LG
+lg-f310l:
+  - LG
+lg-f300s:
+  - LG
+lg-f300l:
+  - LG
+lg-f300k:
+  - LG
+lg-f320s:
+  - LG
+lg-f340k:
+  - LG
+lg-f340l:
+  - LG
+lg-f370l:
+  - LG
+lg-f370k:
+  - LG
+lg-h220:
+  - LG
+lg-h221:
+  - LG
+lg-h221ar:
+  - LG
+lg-h222:
+  - LG
+lg-h788n:
+  - LG
+lg-fl40l:
+  - LG
+lg-f520l:
+  - LG
+lg-f480s:
+  - LG
+lg-f480l:
+  - LG
+lg-f480k:
+  - LG
+lg-f470s:
+  - LG
+lg-f470l:
+  - LG
+lg-f440l:
+  - LG
+lg-f410s:
+  - LG
+lg-f400s:
+  - LG
+lg-f400l:
+  - LG
+lg-f350s:
+  - LG
+lg-f350l:
+  - LG
+lg-f350k:
+  - LG
+lg-d385:
+  - LG
+lg-d380:
+  - LG
+lg-d370:
+  - LG
+lg-h788tr:
+  - LG
+lg-h788sg:
+  - LG
+lg-h815t:
+  - LG
+lgl16c:
+  - LG
+lgl15g:
+  - LG
+lgls885:
+  - LG
+lgd855:
+  - LG
+lgv31:
+  - LG
+lgms323:
+  - LG
+lgvs450pp:
+  - LG
+lgd850:
+  - LG
+lg-x147:
+  - LG
+lg-x140:
+  - LG
+lg-x137:
+  - LG
+lg-x132:
+  - LG
+lg-x130g:
+  - LG
+lg-t480s:
+  - LG
+lg-t480k:
+  - LG
+lg-p716:
+  - LG
+lg-p713tr:
+  - LG
+lg-ls995:
+  - LG
+lg-ls990:
+  - LG
+lg-ls970:
+  - LG
+lg-e985t:
+  - LG
+lg-e612:
+  - LG
+lg-e610:
+  - LG
+lg-d956:
+  - LG
+lg-d951:
+  - LG
+lgms659:
+  - LG
+lgl39c:
+  - LG
+lgl01e:
+  - LG
+lg-f160:
+  - LG
+lg-f160l:
+  - LG
+lg-f160k:
+  - LG
+lg-f160lv:
+  - LG
+23013pc75g:
+  - 0P
+23028rncag:
+  - XI
+23049pcd8g:
+  - 0P
+sm-a245f:
+  - SA
+u668aa:
+  - 6A
+moto g23:
+  - MR
+infinix x669c:
+  - IF
+infinix x669d:
+  - IF
+infinix x6831:
+  - IF
+infinix x6833b:
+  - IF
+infinix x6835b:
+  - IF
+sm-s9160:
+  - SA
+nokia x30 5g:
+  - NK
+v2246:
+  - VV
+rky-lx2:
+  - HU
+t430w:
+  - TC
+t431d:
+  - TC
+t501c:
+  - TC
+t501l:
+  - TC
+pixel 4a 5g:
+  - GO
+black x:
+  - KL
+dijitsu_smart_a11s:
+  - DIJ
+cosmas_tf:
+  - CG
+elite n55:
+  - SW
+lenovo k15 plus:
+  - LE
+note 14:
+  - UL
+acer liquid:
+  - AC
+s100:
+  - DO
+  - IG
+cph2465:
+  - 'ON'
+  - OP
+cph2467:
+  - 'ON'
+  - OP
+pgt-n19:
+  - HU
+phb110:
+  - 'ON'
+lg-f720k:
+  - LG
+lgl164vl:
+  - LG
+impress strong:
+  - VX
+ideos x5 pro:
+  - HU
+i504 dream:
+  - NM
+hyundai ultra rock:
+  - HN
+note_5:
+  - J9
+infinix x6516:
+  - IF
+hisense u965:
+  - HI
+hisense u50 lite:
+  - HI
+hisense infinity e6:
+  - HI
+2209129sc:
+  - XI
+touch xl 2:
+  - CH
+top_s7:
+  - 9H
+top_p9:
+  - 9H
+top_h740:
+  - 9H
+top_10:
+  - 9H
+top_s8:
+  - 9H
+top_note8:
+  - 9H
+top_i7:
+  - 9H
+top-v30:
+  - 9H
+u3_4g:
+  - '40'
+u2:
+  - '40'
+u1:
+  - '40'
+cnote 50:
+  - GOO
+hisense c30 lite:
+  - HI
+5130e:
+  - TC
+5130i:
+  - TC
+telenor smart 2:
+  - T2
+s401a:
+  - IP
+nitro 55a:
+  - MW
+s6303l:
+  - NL
+galaxy s21+:
+  - SA
+three proofings w9:
+  - KX
+three proofings w7:
+  - KX
+toogo go 2:
+  - TOO
+  - QA
+thl 2015a:
+  - T4
+tele2fon_v6:
+  - 2L
+telma f2:
+  - TEL
+telma_titan_4g:
+  - TEL
+telma f1+4g:
+  - TEL
+telma ego:
+  - TEL
+telo_te580_co:
+  - TLS
+techsmart t6:
+  - TE1
+techsmart t5+:
+  - TE1
+tarzan f1:
+  - 5IV
+odyssey high:
+  - Z4
+oucitel c12pro:
+  - OE
+ojos luna:
+  - CI
+  - '69'
+ojos x1:
+  - CI
+ojos cielo:
+  - CI
+odyssey soar:
+  - Z4
+odyssey era:
+  - Z4
+oppo a83t:
+  - OP
+oppo a83:
+  - OP
+rmx3700:
+  - RE
+bv9300:
+  - B2
+itel p11:
+  - IZ
+p11:
+  - DX
+  - SM
+c32:
+  - OE
+c25:
+  - OE
+a95:
+  - B2
+a80:
+  - B2
+p50:
+  - CB
+techniphone 5:
+  - TX
+vox e502 4g vs5036pl:
+  - D2
+vox fire 4g vs5037pl:
+  - D2
+doogee t6pro:
+  - DO
+doogee y6:
+  - DO
+doogee_x9_pro:
+  - DO
+doogee dg550:
+  - DO
+doogee valencia2 y100pro:
+  - DO
+oukitel k4000 pro:
+  - OE
+  - OK
+like_8:
+  - IH
+ftj161e-vn:
+  - FT
+fte171a:
+  - FT
+fun_value:
+  - OW
+fun value lite:
+  - OW
+g-tide v7s:
+  - GT
+g-tide vans 8c:
+  - GT
+g-tide vans 9:
+  - GT
+furious 7 pro:
+  - BC
+paris:
+  - UL
+hisense infinity h60 zoom:
+  - HI
+hisense e32 lite:
+  - HI
+avvio_795:
+  - AV
+n100:
+  - DO
+a350:
+  - DX
+a350 tv:
+  - EX
+micromax a350:
+  - MI
+  - DX
+view max:
+  - FL
+view max pro:
+  - QM
+4188v:
+  - TC
+konnect power:
+  - 0W
+konnect prime:
+  - 0W
+konnect neo 4g:
+  - 0W
+kogan agora 6:
+  - KG
+knmobile q55:
+  - KNM
+5001d_eea:
+  - AL
+5001d_ru:
+  - AL
+5001j:
+  - AL
+wim:
+  - WI
+eluga ray 500:
+  - PA
+sh-01e:
+  - SH
+bz02:
+  - FU
+rg725:
+  - RG
+go 55303:
+  - GRO
+uoogou t10:
+  - UOO
+jkopo f1:
+  - KP
+uoogou f9:
+  - UOO
+eluga i9:
+  - PA
+eluga i7:
+  - PA
+emerald_m55cr:
+  - MIN
+a41 power:
+  - KA
+a1 indian:
+  - KA
+aura storm:
+  - KA
+aura champ:
+  - KA
+eluga i4:
+  - PA
+intex aqua zenith:
+  - IX
+maxi 20:
+  - PR1
+m10+max:
+  - EV
+4188o:
+  - TC
+t768s:
+  - TC
+blade a31:
+  - ZT
+bl52:
+  - BM
+zte 9045:
+  - ZT
+figi p40 max:
+  - J9
+figi p40:
+  - J9
+figi fse1020:
+  - J9
+omega q:
+  - H2
+x540:
+  - LA
+kingkong power:
+  - CB
+zte a7050:
+  - ZT
+zte 8046:
+  - ZT
+v30t:
+  - DO
+v30:
+  - DO
+nokia_xplus:
+  - NK
+nokia xr21:
+  - NK
+nokia xr20 5g:
+  - NK
+nokia c2 2nd edition:
+  - NK
+motorola edge plus (2022):
+  - MR
+htc desire 21 pro 5g:
+  - HT
+htc desire 628 dual sim:
+  - HT
+htc desire 728 dual sim:
+  - HT
+htc desire 728g dual sim:
+  - HT
+htc desire 828 dual sim:
+  - HT
+htc desire 830 dual sim:
+  - HT
+pgem10:
+  - OP
+a181_plus:
+  - I4
+mna-lx9:
+  - HU
+iphone15,3:
+  - AP
+alt-l29:
+  - HU
+galaxy a72:
+  - SA
+mao-lx9n:
+  - HU
+lex725:
+  - L1
+cph2527:
+  - OP
+enjoy 20 se:
+  - HU
+v2239a:
+  - VV
+tecno ck7n:
+  - TB
+impress_intouch_3g:
+  - VX
+poco f5:
+  - 0P
+poco f5 pro:
+  - 0P
+lna-al00:
+  - HU
+23026rn54g:
+  - XI
+itel it1655:
+  - IZ
+redmi 10 power:
+  - XI
+galaxy s21 ultra:
+  - SA
+galaxy s10:
+  - SA
+galaxy s20:
+  - SA
+galaxy s20+:
+  - SA
+galaxy a52:
+  - SA
+galaxy s10e:
+  - SA
+zte 9046:
+  - ZT
+galaxy s7 edge:
+  - SA
+finepowerc5:
+  - F1
+finepowerc1:
+  - F1
+eluga ray max:
+  - PA
+pixavi phone:
+  - BAR
+galaxy s20 ultra:
+  - SA
+sm-s911u1:
+  - SA
+samsung sm-a346b:
+  - SA
+vtl-202201:
+  - VE
+22111317pi:
+  - 0P
+blade a7 2019:
+  - ZT
+pgt-an20:
+  - HU
+f101:
+  - FOS
+  - NAN
+coolpad f101:
+  - CO
+x-treme_pq18:
+  - 1S
+i005da:
+  - AU
+anb-an00:
+  - HU
+yal-l61:
+  - HU
+sttm21vapp:
+  - SH
+stg-al00:
+  - HU
+sm-a5460:
+  - SA
+ila r1:
+  - I7
+lna-lx9:
+  - HU
+x-style_s3502:
+  - 1S
+xiaomi 13 lite:
+  - XI
+hg11:
+  - HD
+tecno_kf6n:
+  - TB
+vna-lx3:
+  - HU
+lio-tn00:
+  - HU
+nokia c02:
+  - NK
+jack:
+  - MJ
+mao-lx9:
+  - HU
+ltk-lx3:
+  - HU
+sm-g991r4:
+  - SA
+vna-l29:
+  - HU
+hongmi 4a:
+  - XI
+asus_ai2203_b:
+  - AU
+k9 pro:
+  - OE
+v2254a:
+  - VV
+iqoo u3:
+  - VV
+blade l8:
+  - ZT
+htc one e9plus dual sim:
+  - HT
+studio m4 plus:
+  - BU
+studio x9 hd:
+  - BU
+studio view:
+  - BU
+studio mega lte:
+  - BU
+qmobile evok power:
+  - QM
+qmobile evok power lite:
+  - QM
+elite y:
+  - L5
+rmx3615:
+  - RE
+2304fpn6dg:
+  - XI
+2304fpn6dc:
+  - XI
+z5158:
+  - ZT
+iqoo neo 5 lite:
+  - VV
+v2301a:
+  - VV
+x-max:
+  - H1
+spicemi-520n:
+  - SP
+spice mi-526n:
+  - SP
+spicemi441:
+  - SP
+spicemi-509:
+  - SP
+spice mi-551:
+  - SP
+spice mi-549:
+  - SP
+spice mi-526:
+  - SP
+spice mi-518:
+  - SP
+spice mi-514:
+  - SP
+spice mi-513:
+  - SP
+spice mi-507:
+  - SP
+spice mi-506:
+  - SP
+spice mi-431:
+  - SP
+spice mi-359:
+  - SP
+sunny ss01:
+  - 5Y
+  - WI
+sunny s52d:
+  - 5Y
+  - WI
+m5i:
+  - HV
+m55c:
+  - E9
+m55b:
+  - E9
+m55a:
+  - E9
+m520:
+  - SM1
+m504:
+  - P6
+m5 plus:
+  - GI
+  - HV
+m5 mini:
+  - GI
+m2mini:
+  - GI
+a898 duo:
+  - MY
+vetas v9:
+  - VET
+vetas v10:
+  - VET
+intex aqua power iv:
+  - IX
+itel a20:
+  - IZ
+itel a42 plus:
+  - IZ
+itel a43:
+  - IZ
+itel p31:
+  - IZ
+itel p51:
+  - IZ
+itel p41:
+  - IZ
+m762g:
+  - C3
+m700:
+  - SM1
+m8414:
+  - MOV
+m8415:
+  - MOV
+m8416:
+  - MOV
+m8418:
+  - MOV
+m8601:
+  - MOV
+m9103:
+  - MOV
+m9101b:
+  - MOV
+m9101a:
+  - MOV
+mint virgo:
+  - MIN
+mint_orion:
+  - MIN
+more_3:
+  - '13'
+echo prism:
+  - E4
+echo_studio:
+  - E4
+eko omega q55:
+  - EK
+eko star lte g60:
+  - EK
+eko omega lte q60:
+  - EK
+eks s45u:
+  - EM
+elitedual:
+  - 0W
+enia:
+  - XCL
+epic:
+  - HR
+epic t:
+  - YE
+  - HR
+eros plus:
+  - '72'
+eros power:
+  - '72'
+fire 4:
+  - I5
+fire 4 pro:
+  - I5
+fire 4 plus:
+  - I5
+fun plus:
+  - FT
+f_plus:
+  - FLU
+itel a13plus:
+  - IZ
+itel a31plus:
+  - IZ
+itel a31:
+  - IZ
+23053rn02a:
+  - XI
+asus_ai2205_c:
+  - AU
+rmx3741:
+  - RE
+v2283a:
+  - VV
+2305epcc4g:
+  - 0P
+bravis a504:
+  - BV
+infinix x669:
+  - IF
+23053rn02y:
+  - XI
+v2247:
+  - VV
+rmx3771:
+  - RE
+itel p662ln:
+  - IZ
+22127pc95i:
+  - 0P
+22122rk93c:
+  - XI
+kingkong 9:
+  - CB
+ultramintt x5:
+  - OM
+zte v880h:
+  - ZT
+itel p662l:
+  - IZ
+vivo u20:
+  - VV
+tecno ki8:
+  - TB
+crt-nx1:
+  - HU
+goa-lx9:
+  - HU
+xiaomi civi 1s:
+  - XI
+stg-lx1:
+  - HU
+mar-l21meb:
+  - HU
+tecno ck8n:
+  - TB
+joe:
+  - MJ
+via x30 plus:
+  - R4
+rmx3660:
+  - RE
+vne-an40:
+  - HU
+rx17neo:
+  - OP
+sm-a526t:
+  - SA
+r15 dream mirror:
+  - OP
+reno6 5g:
+  - OP
+nova 6 5g:
+  - HU
+primo f7s:
+  - WA
+find x3 lite:
+  - OP
+l38043:
+  - LE
+tecno mobile ch9n:
+  - TB
+itel s662lcn:
+  - IZ
+goa-al80:
+  - HU
+tecno ck6n:
+  - TB
+sm-a546u:
+  - SA
+wp21 ultra:
+  - OE
+sm-s911u:
+  - SA
+wp22:
+  - OE
+wp23:
+  - OE
+tecno ck9n:
+  - TB
+tank2:
+  - UZ
+find x3 pro:
+  - OP
+philips w6610:
+  - PH
+mi 8lite:
+  - XI
+sh60_23230:
+  - FPS
+redmi 12:
+  - XI
+iqoo neo 3:
+  - VV
+angela-l02b:
+  - HU
+crt-an00:
+  - HU
+mna-al00:
+  - HU
+aura sleek 4g:
+  - KA
+m1912g7bc:
+  - XI
+jad-al80:
+  - HU
+iqoo neo 5s:
+  - VV
 y9plus:
   - DO
 doro 8030/8031/8028:
@@ -33979,6 +35473,7 @@ atrium ii f55l2:
   - FI
 epic f50g:
   - FI
+  - HR
 f55l:
   - FI
 gravity x55l:
@@ -34620,8 +36115,6 @@ hisense f8 mini:
   - HI
 htc desire 10 compact:
   - HT
-htc desire 21 pro 5g:
-  - HT
 i2018:
   - VV
 k4b:
@@ -35037,8 +36530,6 @@ i46d1g:
   - HI
 eg680:
   - HI
-ht16:
-  - HM
 homtom_ht16:
   - HM
 ht17:
@@ -37084,6 +38575,7 @@ aqua_i-4+:
   - IX
 intex aqua marvel:
   - IX
+  - DIS
 aqua star:
   - IX
 aqua style:
@@ -38406,6 +39898,7 @@ le_hola:
   - LM
 le hola fr:
   - LM
+  - J9
 le hop:
   - LM
 le lift:
@@ -41677,6 +43170,66 @@ ipad13,16:
   - AP
 ipad13,17:
   - AP
+tb350fu:
+  - LE
+notebook6:
+  - IDI
+bq-1036l:
+  - BX
+optima 1200t 3g tt1043pg:
+  - D2
+plane 1512 3g ps1120mg:
+  - D2
+sky 8421d 4g ss8264pl:
+  - W8
+ursus 10mv 3g:
+  - DX
+spice-mi-710:
+  - SP
+spice mi-730:
+  - SP
+m75tg:
+  - CNG
+echo lolly:
+  - M4
+edu-7mt4:
+  - GAM
+epad 7i:
+  - EPK
+fire_v8:
+  - ODP
+tr10cs2:
+  - ES
+m10l pro:
+  - BU
+x109:
+  - Y9
+lenovo b8080-f:
+  - LE
+tb-x605l:
+  - LE
+sm-t805s:
+  - SA
+true smart 7.0 quadcore:
+  - '11'
+23046rp50c:
+  - XI
+p30s_eea:
+  - T7
+p008:
+  - AU
+m40_plus_row:
+  - T7
+tab 15 pro:
+  - B2
+dbr-w09:
+  - HU
+tb3-x70l:
+  - LE
+tb-x605lc:
+  - LE
+a7600-h:
+  - LE
 jdn-al00:
   - HU
 ags2-al00hn:
@@ -44573,8 +46126,10 @@ qooq:
   - UN
 epic e8:
   - V2
+  - HR
 epic p7:
   - V2
+  - HR
 magnet m1:
   - V2
 navo_qs:
@@ -49625,6 +51180,315 @@ u27gt-sd:
   - CU
 gfive gpad701:
   - 0G
+ac101pl3gv2:
+  - AR
+novo7_elf:
+  - AZ
+marvel:
+  - DIS
+frozen:
+  - DIS
+f808nm:
+  - WAF
+gpad701:
+  - 0G
+gpad702:
+  - 0G
+g-padlite:
+  - 4Y
+9132g:
+  - TC
+tk701_eea:
+  - AEE
+p30s_row:
+  - T7
+p40hd_row:
+  - T7
+tab_812_4g:
+  - MJ
+p40hd_eea:
+  - T7
+tab 11 se:
+  - B2
+t81n:
+  - LV
+sm-t597v:
+  - SA
+sm-t597p:
+  - SA
+taristab3:
+  - '69'
+tps-sc10:
+  - TPS
+tpc_8053g:
+  - V5
+twifi-06:
+  - SAT
+gm discovery tab 8:
+  - GN
+uno_x10:
+  - O1
+noon_pro:
+  - O1
+neron:
+  - O1
+orion7ol:
+  - GC
+momo9 3gq:
+  - PY
+sonysgp321:
+  - SO
+gocam_g301:
+  - CON
+hello 7q:
+  - UK
+hugerock t70h:
+  - HUG
+slide_skye_03:
+  - IB
+  - WI
+if236a:
+  - I0
+if195a:
+  - I0
+smart_l102:
+  - IG
+smartview_9.6_3g:
+  - MY
+st1009x:
+  - 3B
+  - SE
+t7a6n:
+  - NB
+tab 4g 8-1:
+  - VX
+tab 747 3g:
+  - MJ
+tab 611 3g:
+  - MJ
+tab 511 3g:
+  - MJ
+toy_story:
+  - DIS
+st-810:
+  - H5
+spirit_x2:
+  - IB
+smart_w101:
+  - IG
+lg-v940n:
+  - LG
+lg-v940:
+  - LG
+lg-v935t:
+  - LG
+lg-v930:
+  - LG
+lg-v700wj:
+  - LG
+lg-v700n:
+  - LG
+lg-v411:
+  - LG
+lg-v400y7:
+  - LG
+lg-p490l:
+  - LG
+lg-v507l:
+  - LG
+tb300xu:
+  - LE
+tb350xu:
+  - LE
+sky pad10:
+  - SW
+azimut3 pro:
+  - MC
+atab1422e:
+  - AC
+b_tab1021:
+  - BOL
+ezpad m10s:
+  - 7J
+  - EZ
+m40 pro_row:
+  - T7
+m40 plus_row:
+  - T7
+p20s_eea:
+  - T7
+pad 10:
+  - OSC
+iget smart s100:
+  - IG
+rt3:
+  - OE
+t50_eea:
+  - T7
+t50_row:
+  - T7
+ifiveair:
+  - FW
+ieos_next_10:
+  - O1
+ifive pro 2:
+  - FW
+i15-t:
+  - CU
+topshows-x1:
+  - TO2
+topshows x9:
+  - TO2
+touchmate tm-mid1040:
+  - T8
+dl1025gh:
+  - DD
+mlab_glowy10:
+  - MLA
+hsg1416:
+  - HE
+tab_814:
+  - MJ
+azimut2:
+  - MC
+k87cc:
+  - ZT
+mid1020l:
+  - 6E
+pro 1480e 4g rs1267pl:
+  - D2
+tb-8704v:
+  - LE
+theia_10:
+  - NJO
+tfqcoal01232:
+  - T6
+techpad 7qc:
+  - TP
+techpad 10qc:
+  - TP
+tdv900:
+  - LN
+nogapad 10.1ghd:
+  - OG
+nodropout t25:
+  - NOD
+nodropout t25m:
+  - NOD
+bq-8088l:
+  - BX
+m40s_row:
+  - T7
+h28:
+  - DX
+s270:
+  - DX
+s169:
+  - DX
+s110:
+  - DX
+diamond r8:
+  - DUR
+detroit 3:
+  - GOL
+optima 7202 3g ts7055mg:
+  - D2
+optima 7201 3g ts7047pg:
+  - D2
+optima 7200t 3g tt7042mg:
+  - D2
+panoramic fq-058/2:
+  - PA1
+plt-200:
+  - PLT
+plt-100:
+  - PLT
+plt9999g:
+  - P1
+plt7770g:
+  - P1
+pndp60l10blk:
+  - PQ
+pndp60m7pur:
+  - PQ
+prime10se:
+  - VIL
+prime10es:
+  - VIL
+elite9ql:
+  - VIL
+elite8qi:
+  - VIL
+elite7qs:
+  - VIL
+bdl1064pr001:
+  - PL
+etw101gt_c:
+  - 6Q
+9137w:
+  - TC
+8491x:
+  - TC
+pmt3103_w_ru:
+  - PR
+8084_eea:
+  - AL
+f803ym:
+  - WAF
+1402d 4g ws1250pl:
+  - D2
+p25_t_row:
+  - T7
+lavie t7 7sd1:
+  - NE
+lavie tab 10fhd3:
+  - NE
+lavie tab t12 12qhd1:
+  - NE
+p30air_eea:
+  - T7
+m170:
+  - DX
+pmt4511_4g_eea:
+  - PR
+elite t10:
+  - SW
+bp_6110:
+  - BP
+gta7plus:
+  - GH
+m40(n9h2):
+  - T7
+plane_7012m_3g_ps7082mg:
+  - D2
+u70c:
+  - E9
+u800b:
+  - CEI
+u70b:
+  - E9
+moto tab g70:
+  - MR
+nokia t10:
+  - NK
+nokia t21:
+  - NK
+m10es11:
+  - IBO
+x2_eea:
+  - 'YES'
+groberwert hd7:
+  - GR1
+fz-a2a:
+  - PA
+hipad xpro:
+  - 1C
+k7_a101_eea:
+  - PRI
+lenovo tb-j6c6f:
+  - LE
+readboy_g600:
+  - RB
 senkatel_t1009:
   - '01'
 senkatel_t7011:
@@ -50465,8 +52329,6 @@ p01ma:
 p01m:
   - AU
 p001:
-  - AU
-p008:
   - AU
 asus_p00j:
   - AU
@@ -51393,6 +53255,7 @@ ulx-43utcs347:
   - YN
 rombica tv air:
   - R3
+  - A95
 nv720wb:
   - 4E
 lpx-g box max:
@@ -51650,6 +53513,240 @@ k32dlx10hs:
   - T0
 k32dlj12hs:
   - T0
+swtv-20ae:
+  - SK
+skystream_3plus:
+  - SK1
+yasin 2k tv:
+  - YJ
+ulx-32tcs226:
+  - YN
+dvb-atv100:
+  - HAT
+ilepo mxq-4k:
+  - ILE
+nvx-32h219msy:
+  - NQ
+nvx-39h211msy:
+  - NQ
+nwx-43f149msyv:
+  - NQ
+ex-39hs004b:
+  - '35'
+43fsy112xc:
+  - 3H
+43fsy112xd:
+  - 3H
+32h511t:
+  - 4B
+43f530t:
+  - 4B
+mitv-mooq1:
+  - XI
+thl box 1:
+  - T4
+thl box 1 pro:
+  - T4
+dangcaphd d8 pro:
+  - DA1
+h32f8000q-b:
+  - DX
+h32f8000q-c:
+  - DX
+h32f8100q-a:
+  - DX
+f43f8000cg:
+  - DX
+f43f8000cg-h:
+  - DX
+f43f8000q-g:
+  - DX
+f43f8000qg-a:
+  - DX
+f43f8000qg-d:
+  - DX
+sfcstb2lite:
+  - X1
+haier android tv dvb2k:
+  - HA
+a95x plus:
+  - A95
+a95x max:
+  - A95
+a95x-f1:
+  - A95
+a95xr5:
+  - A95
+a95x f3:
+  - A95
+a95x f3 air:
+  - A95
+a95x f2:
+  - A95
+a95x-r2:
+  - A95
+a95x-r1:
+  - A95
+a95x-a2:
+  - A95
+a95xw2:
+  - A95
+a95x_f3:
+  - A95
+a95xz2plus:
+  - A95
+a95xz2:
+  - A95
+a95xr3:
+  - A95
+a95x-r3_ru:
+  - A95
+a95x r3:
+  - A95
+a95x max +:
+  - A95
+a95x f2 ru:
+  - A95
+a95x f3 slim:
+  - A95
+a95x pro:
+  - A95
+a95x-a1:
+  - A95
+a95x_f3air_ii:
+  - A95
+a95xf4:
+  - A95
+ab5116-01:
+  - NM
+hty-55uhd05b-s2:
+  - HA1
+baff43yfhd:
+  - BFF
+u65yq2200gr:
+  - HIP
+harper_24r490ts:
+  - HAR
+h-led24bs5000:
+  - HN
+evolveo android box h8:
+  - EO
+evolveo android box h4:
+  - EO
+sw-led43sg302:
+  - '45'
+32lh8010t:
+  - 8A
+32lx9051t2:
+  - '05'
+toucan smart 3d quad:
+  - I2
+tdtv32bs01h_bk:
+  - TOP
+u55h8050e:
+  - DX
+mitv-mosr1:
+  - XI
+39lex-7289:
+  - BB
+f43h8000k:
+  - DX
+50u1ydx000bs2:
+  - I6
+tdtv24bs02h:
+  - TOP
+32lex-7225ts2c:
+  - BB
+ld-65su8815bs:
+  - VEK
+nvx-43u329msy:
+  - NQ
+u43ey1500b:
+  - ACC
+limez2plus:
+  - LIM
+zidoo_x9:
+  - ZI
+55ules92t2sm:
+  - '05'
+h-led32fs5005:
+  - HN
+sw-led43sg300:
+  - '45'
+32lh8110t:
+  - 8A
+iconbit movie z:
+  - I2
+ptv32ss08z:
+  - PR
+hty-43f06b-vz:
+  - HA1
+43lst5975:
+  - SKY
+43lu1210:
+  - VHM
+vhix-32f199msa:
+  - 3H
+u65g8000q:
+  - DX
+50usy151x:
+  - 3H
+h3218000k:
+  - DX
+f32ey1500b:
+  - ACC
+h32i8000k:
+  - DX
+baff32ystv-r:
+  - BFF
+u50yq2200gr:
+  - HIP
+u50h8050eg:
+  - DX
+hty-50uhd11b-s2:
+  - HA1
+le-39zths25:
+  - '54'
+iron+:
+  - 6Y
+rombica smart box a2:
+  - R3
+24lh1211:
+  - VHM
+hty-24h06w-vz:
+  - HA1
+h-led55gu7003:
+  - HN
+movix go:
+  - DOM
+nwx-24h121msy:
+  - NQ
+32le7052d:
+  - 4H
+h-led43fs5003:
+  - HN
+vekta ld-32sr4850bs:
+  - VEK
+sw-led24sg303:
+  - '45'
+sun-led43xu400:
+  - W8
+u43g8100qg:
+  - DX
+nexon x3:
+  - N8
+32h1ydx000bs2:
+  - I6
+32lf7120t:
+  - 8A
+43kus65:
+  - DF
+sw-led55ug400:
+  - '45'
+32h1ydx000fbs2:
+  - I6
+39h1ydx000bs2:
+  - I6
 bb2 pro:
   - 0M
 kii pro:
@@ -51729,6 +53826,7 @@ vorke z6 plus:
   - 2V
 a95x_r1:
   - 3L
+  - A95
 nv501:
   - 4E
 nv501wac:
@@ -52128,6 +54226,7 @@ audi_ks1280x480: []
 ks1280x480: []
 aosp on r33a0: []
 hx322x_box: []
+x98_s500: []
 leo-bx9:
   - HU
 lg watch urbane:
@@ -52194,3 +54293,45 @@ appllp max:
   - GY
 pico neo 3:
   - QP
+thor 4 plus:
+  - ZE1
+thor s:
+  - ZE1
+thor pro:
+  - ZE1
+gll-al01:
+  - HU
+samsung sm-r875f:
+  - SA
+sm-r870:
+  - SA
+sm-r860:
+  - SA
+samsung sm-r905u:
+  - SA
+sm-r925f:
+  - SA
+samsung sm-r925n:
+  - SA
+samsung sm-r925u:
+  - SA
+samsung sm-r920:
+  - SA
+sm-r915u:
+  - SA
+samsung sm-r915f:
+  - SA
+sm-r910:
+  - SA
+samsung sm-r905n:
+  - SA
+sm-r905f:
+  - SA
+sm-r895u:
+  - SA
+sm-r895n:
+  - SA
+sm-r895f:
+  - SA
+sm-r900:
+  - SA
